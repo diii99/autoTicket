@@ -8,3 +8,5 @@ In addition to web interaction, autoTicket features a function to parse and proc
 The project is designed with readability and maintainability in mind. All comments and function names are provided in English, and arguments are translated to ensure a user-friendly experience. The modular structure of the code allows for easy updates and adaptations, ensuring that the tool remains relevant and functional as the target website evolves.
 
 Originally tailored for a specific university's event platform, autoTicket can be easily repurposed and modified to automate similar tasks on other web platforms. This versatility makes it a valuable tool for anyone looking to automate web navigation, interaction, and data processing tasks, particularly in the context of event registration and participation.
+<img width="1280" alt="image" src="https://github.com/diii99/autoTicket/assets/112450353/e2f6f7ab-8867-421e-af35-bb26532c7749">
+
